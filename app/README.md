@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Nguyễn Thế Hoàng
+* Name: Nguyen The Hoang    
 * ID: BI12-171
 * Group ID: 6
 
